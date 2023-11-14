@@ -1,7 +1,3 @@
-# Mi Proyecto
+# EXAMEN POL
 
-Este es mi poyecto.
-
-## Colaboradores
-
-- PolElhombreGlanadell
+- Pol Elhombre Glanadell
